@@ -1,5 +1,5 @@
 # SENAI: Concepção e Design de Machine Learning
-</br></br>
+</br>
 ## Exercícios realizados no curso do Senai: Concepção e Design de Machine Learning
 </br></br>
 ### Situação-problema1: Contextualização
