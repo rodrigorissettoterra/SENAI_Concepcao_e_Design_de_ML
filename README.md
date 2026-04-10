@@ -12,7 +12,7 @@ de exames e testes em laboratório, e protocolo de tratamento adotado, além de 
   Desse modo, você deverá superar o seguinte desafio:
 • Preparar o conjunto de dados sobre hepatite.
 
-</br></br>
+</br>
 
 #### Atividade 1: Preparação inicial do conjunto de dados de hepatite
 
