@@ -41,3 +41,28 @@ Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_02.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_02.ipynb</u></i></a>
 
 <hr>
+
+### Situação-problema2: Contextualização
+
+<b>Soluções para o ramo hoteleiro</b>
+
+  Uma empresa do ramo hoteleiro está passando por algumas dificuldades em seu sistema. Por isso, ela contratou a empresa de IA que você trabalha para elaborar soluções específicas utilizando ciência de dados para as necessidades dela. Logo de início, ela especificou que gostaria da elaboração de soluções “prova de conceito” para dois desafios distintos:
+- Sistema de reconhecimento de face para biometria de funcionários; 
+- Previsão da nota geral de avaliação de um hóspede com base no que ele escreveu sobre o hotel na plataforma TripAdvisor.
+  Ambos são problemas que necessitam do trabalho com dados não estruturados, logo, uma etapa de extração de características será necessária.
+
+#### Atividade 1: Sistema de reconhecimento
+
+  Lembre-se de que você, funcionário de uma empresa de IA, deve elaborar um sistema de reconhecimento de face para biometria de funcionários, de modo a atender à empresa do ramo hoteleiro.
+  Para tal, a prova de conceito deverá ser desenvolvida utilizando o Yale Face Dataset, um dataset com 165 imagens em preto e branco do rosto de 15 pessoas diferentes (11 imagens por pessoa). O arquivo .zip da base pode ser baixado através do seguinte link: <a href="" target="_blanck"><i><u>http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip</u></i></a>.
+  O objetivo central da atividade é extrair um vetor das características que melhor representem as nuances de cada rosto. Como são 165 imagens, o dataset final esperado pós-processamento será uma matriz de 165 x N, onde N é a quantidade de características escolhidas para representação.
+
+Solução da Atividade 1: <a href="" target="_blanck"><i><u>NOME</u></i></a>
+
+#### Atividade 2: Previsão de nota
+
+  Você, funcionário de uma empresa de IA, deve realizar uma previsão da nota geral de avaliação de um hóspede com base no que ele escreveu sobre o hotel na plataforma TipAdvisor, de modo a atender à empresa do ramo hoteleiro.
+  Para efetuá-la, a viabilidade de uma solução deverá utilizar o conjunto de dados disponível online na plataforma Kaggle, onde 20 mil avaliações foram extraídas com as suas respectivas notas gerais. O arquivo .zip da base pode ser baixado através do link: <a href="" target="_blanck"><i><u>https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews/download</u></i></a>.
+  O objetivo central da atividade é organizar o vocabulário utilizado nas avaliações e representar o texto utilizando a estratégia de bag-of-words. Ao fim, como são 20491 amostras, é esperado que no pós-processamento você tenha uma matriz com 20491 x N, onde N é a quantidade de características escolhidas para representação do documento.
+
+Solução da Atividade 2: <a href="" target="_blanck"><i><u>NOME</u></i></a>
