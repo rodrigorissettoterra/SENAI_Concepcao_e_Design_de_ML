@@ -1,7 +1,7 @@
 # SENAI: Concepção e Design de Machine Learning
-</br>
+<br>
 ## Exercícios realizados no curso do Senai: Concepção e Design de Machine Learning
-</br></br>
+<br><br>
 ### Situação-problema1: Contextualização
 <b>Dados sobre hepatite</b>
   Você assumiu o posto de cientista de dados do Hospital Santa Ajuda e lhe foi pedido que auxilie os médicos na identificação de fatores prognósticos e sobrevivência dos pacientes com hepatite. No caso, trabalhará no pré-processamento de um conjunto de dados que envolvem esses pacientes para criação de um modelo preditivo. 
