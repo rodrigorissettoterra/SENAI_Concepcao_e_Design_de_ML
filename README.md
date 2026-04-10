@@ -1,17 +1,21 @@
 # SENAI: Concepção e Design de Machine Learning
-<br>
 ## Exercícios realizados no curso do Senai: Concepção e Design de Machine Learning
-<br><br>
+
 ### Situação-problema1: Contextualização
+
 <b>Dados sobre hepatite</b>
+
   Você assumiu o posto de cientista de dados do Hospital Santa Ajuda e lhe foi pedido que auxilie os médicos na identificação de fatores prognósticos e sobrevivência dos pacientes com hepatite. No caso, trabalhará no pré-processamento de um conjunto de dados que envolvem esses pacientes para criação de um modelo preditivo. 
   A base de dados a ser utilizada foi disponibilizada primeiramente em 1988 (GONG, 1988) no repositório da UCI e é bem estabelecida na literatura como um projeto de entrada no mundo da ciência de dados (GOH, 2020). A base apresenta 19 atributos de 155 pacientes, que incluem dados sobre o seu perfil, presença de sinais e sintomas da doença, resultados
 de exames e testes em laboratório, e protocolo de tratamento adotado, além de incluir o rótulo indicando se o paciente com a doença veio a falecer. 
   Após o pré-processamento deste conjunto de dados, é esperado que eles não possuam inconsistências, redundâncias, valores faltantes, ruído e que estejam normalizados para serem utilizados como entrada por um modelo de aprendizado de máquina.
   Desse modo, você deverá superar o seguinte desafio:
 • Preparar o conjunto de dados sobre hepatite.
+
 </br></br>
+
 #### Atividade 1: Preparação inicial do conjunto de dados de hepatite
+
   Nesta atividade, você, como cientista de dados do Hospital Santa Ajuda, trabalhará no pré-processamento de um conjunto de dados que envolvem pacientes com hepatite para criação de um modelo preditivo que auxilie os médicos na identificação de fatores prognósticos e sobrevivência dos pacientes com essa patologia.
   A base de dados a ser utilizada foi disponibilizada primeiramente em 1988 (GONG, 1988) no repositório da UCI e é bem estabelecida na literatura como um projeto de entrada no mundo da ciência de dados (GOH, 2020). Ela apresenta 19 atributos de 155 pacientes, que incluem dados sobre o seu perfil, presença de sinais e sintomas da doença, resultados de exames e testes em laboratório, e protocolo de tratamento adotado, além de incluir o rótulo indicando se o paciente com a doença veio a falecer.
   Após o pré-processamento deste conjunto de dados é esperado que eles não possuam inconsistências, redundâncias, valores faltantes, ruído e que estejam normalizados para serem utilizados como entrada por um modelo de aprendizado de máquina.
