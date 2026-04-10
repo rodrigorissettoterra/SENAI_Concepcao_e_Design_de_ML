@@ -40,3 +40,4 @@ Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 
 Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_02.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_02.ipynb</u></i></a>
 
+<hr>
