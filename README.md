@@ -1,5 +1,5 @@
 # SENAI: Concepção e Design de Machine Learning
-## Exercícios realizados no curso do Senai: Concepção e Design de Machine Learning
+## Exercícios realizados durante o curso
 
 ### Preparação e pré-processamento de dados
 
