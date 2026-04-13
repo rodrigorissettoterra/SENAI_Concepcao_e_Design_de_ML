@@ -69,3 +69,5 @@ Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI
   O objetivo central da atividade é organizar o vocabulário utilizado nas avaliações e representar o texto utilizando a estratégia de bag-of-words. Ao fim, como são 20491 amostras, é esperado que no pós-processamento você tenha uma matriz com 20491 x N, onde N é a quantidade de características escolhidas para representação do documento.
 
 Solução da Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Previs%C3%A3o_de_nota.ipynb" target="_blanck"><i><u>Previsão de nota.ipynb</u></i></a>
+
+<hr>
