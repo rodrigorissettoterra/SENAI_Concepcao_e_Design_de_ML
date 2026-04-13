@@ -57,7 +57,7 @@ Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
   Para tal, a prova de conceito deverá ser desenvolvida utilizando o Yale Face Dataset, um dataset com 165 imagens em preto e branco do rosto de 15 pessoas diferentes (11 imagens por pessoa). O arquivo .zip da base pode ser baixado através do seguinte link: <a href="" target="_blanck"><i><u>http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip</u></i></a>.
   O objetivo central da atividade é extrair um vetor das características que melhor representem as nuances de cada rosto. Como são 165 imagens, o dataset final esperado pós-processamento será uma matriz de 165 x N, onde N é a quantidade de características escolhidas para representação.
 
-Solução da Atividade 1: <a href="" target="_blanck"><i><u>NOME</u></i></a>
+Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Sistema_de_reconhecimento.ipynb" target="_blanck"><i><u>Sistema de reconhecimento.ipynb</u></i></a>
 
 #### Atividade 2: Previsão de nota
 
