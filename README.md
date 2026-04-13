@@ -33,8 +33,8 @@ de exames e testes em laboratório, e protocolo de tratamento adotado, além de 
 Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_01.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_01.ipynb</u></i></a>
 </br></br>
 <b> Atividade 2: Preparação final do conjunto de dados de hepatite para processamento com modelo preditivo </b>
-  Você, como cientista de dados do Hospital Santa Ajuda, completará a preparação do conjunto de dados de hepatite, com uma etapa de seleção de características.
-  O objetivo desta atividade é a utilização de métodos de seleção de características e redução de dimensionalidade para elaborar três conjuntos de dados com quantidade de atributos distinta do original. Os cenários são definidos a seguir:
+<p>Você, como cientista de dados do Hospital Santa Ajuda, completará a preparação do conjunto de dados de hepatite, com uma etapa de seleção de características.</p>
+<p>O objetivo desta atividade é a utilização de métodos de seleção de características e redução de dimensionalidade para elaborar três conjuntos de dados com quantidade de atributos distinta do original. Os cenários são definidos a seguir:</p>
 - 1° Cenário: Seleção dos 12 melhores atributos utilizando correlação como base;
 - 2° Cenário: Seleção dos 12 melhores atributos utilizando chi quadrado como base;
 - 3° Cenário: Redução de dimensionalidade com PCA do conjunto total para 12 componentes principais.
