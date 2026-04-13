@@ -39,7 +39,7 @@ Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 - 2° Cenário: Seleção dos 12 melhores atributos utilizando chi quadrado como base;
 - 3° Cenário: Redução de dimensionalidade com PCA do conjunto total para 12 componentes principais.
 
-  Uma vez que os dados estejam prontos para cada cenário, a experimentação com modelos de classificação pode ser feita utilizando um modelo de máquinas de vetor suporte (SVM) com o kernel RBF e avaliando a métrica de acurácia balanceada, uma vez que o conjunto original apresenta mais dados de pessoas que sobreviveram do que para aquelas que vieram a óbito. 
+<p>Uma vez que os dados estejam prontos para cada cenário, a experimentação com modelos de classificação pode ser feita utilizando um modelo de máquinas de vetor suporte (SVM) com o kernel RBF e avaliando a métrica de acurácia balanceada, uma vez que o conjunto original apresenta mais dados de pessoas que sobreviveram do que para aquelas que vieram a óbito.</p>
 
 Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_02.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_02.ipynb</u></i></a>
 
