@@ -3,7 +3,7 @@
 
 ### Preparação e pré-processamento de dados
 
-### Situação-problema1: Contextualização
+#### Situação-problema1: Contextualização
 
 <b>Dados sobre hepatite</b>
 
@@ -16,7 +16,7 @@ de exames e testes em laboratório, e protocolo de tratamento adotado, além de 
 
 </br>
 
-<b> Atividade 1: Preparação inicial do conjunto de dados de hepatite
+<b> Atividade 1: Preparação inicial do conjunto de dados de hepatite </b>
 
   Nesta atividade, você, como cientista de dados do Hospital Santa Ajuda, trabalhará no pré-processamento de um conjunto de dados que envolvem pacientes com hepatite para criação de um modelo preditivo que auxilie os médicos na identificação de fatores prognósticos e sobrevivência dos pacientes com essa patologia.
   A base de dados a ser utilizada foi disponibilizada primeiramente em 1988 (GONG, 1988) no repositório da UCI e é bem estabelecida na literatura como um projeto de entrada no mundo da ciência de dados (GOH, 2020). Ela apresenta 19 atributos de 155 pacientes, que incluem dados sobre o seu perfil, presença de sinais e sintomas da doença, resultados de exames e testes em laboratório, e protocolo de tratamento adotado, além de incluir o rótulo indicando se o paciente com a doença veio a falecer.
@@ -32,7 +32,7 @@ de exames e testes em laboratório, e protocolo de tratamento adotado, além de 
 
 Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_01.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_01.ipynb</u></i></a>
 </br></br>
-<b> Atividade 2: Preparação final do conjunto de dados de hepatite para processamento com modelo preditivo
+<b> Atividade 2: Preparação final do conjunto de dados de hepatite para processamento com modelo preditivo </b>
   Você, como cientista de dados do Hospital Santa Ajuda, completará a preparação do conjunto de dados de hepatite, com uma etapa de seleção de características.
   O objetivo desta atividade é a utilização de métodos de seleção de características e redução de dimensionalidade para elaborar três conjuntos de dados com quantidade de atributos distinta do original. Os cenários são definidos a seguir:
 - 1° Cenário: Seleção dos 12 melhores atributos utilizando correlação como base;
@@ -44,7 +44,7 @@ Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 
 <hr>
 
-### Situação-problema2: Contextualização
+#### Situação-problema2: Contextualização
 
 <b>Soluções para o ramo hoteleiro</b>
 
@@ -53,7 +53,7 @@ Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 - Previsão da nota geral de avaliação de um hóspede com base no que ele escreveu sobre o hotel na plataforma TripAdvisor.
   Ambos são problemas que necessitam do trabalho com dados não estruturados, logo, uma etapa de extração de características será necessária.
 
-<b> Atividade 1: Sistema de reconhecimento
+<b> Atividade 1: Sistema de reconhecimento </b>
 
   Lembre-se de que você, funcionário de uma empresa de IA, deve elaborar um sistema de reconhecimento de face para biometria de funcionários, de modo a atender à empresa do ramo hoteleiro.
   Para tal, a prova de conceito deverá ser desenvolvida utilizando o Yale Face Dataset, um dataset com 165 imagens em preto e branco do rosto de 15 pessoas diferentes (11 imagens por pessoa). O arquivo .zip da base pode ser baixado através do seguinte link: <a href="" target="_blanck"><i><u>http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip</u></i></a>.
@@ -61,7 +61,7 @@ Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 
 Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Sistema_de_reconhecimento.ipynb" target="_blanck"><i><u>Sistema de reconhecimento.ipynb</u></i></a>
 
-<b> Atividade 2: Previsão de nota
+<b> Atividade 2: Previsão de nota </b>
 
   Você, funcionário de uma empresa de IA, deve realizar uma previsão da nota geral de avaliação de um hóspede com base no que ele escreveu sobre o hotel na plataforma TipAdvisor, de modo a atender à empresa do ramo hoteleiro.
   Para efetuá-la, a viabilidade de uma solução deverá utilizar o conjunto de dados disponível online na plataforma Kaggle, onde 20 mil avaliações foram extraídas com as suas respectivas notas gerais. O arquivo .zip da base pode ser baixado através do link: <a href="" target="_blanck"><i><u>https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews/download</u></i></a>.
