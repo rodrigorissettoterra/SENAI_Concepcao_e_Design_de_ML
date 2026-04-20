@@ -71,3 +71,24 @@ Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI
 Solução da Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Previs%C3%A3o_de_nota.ipynb" target="_blanck"><i><u>Previsão de nota.ipynb</u></i></a>
 
 <hr>
+
+### Criação e validação de modelos de aprendizado de máquina
+
+#### Situação-problema1: Contextualização
+
+<b>Análise e criação de modelo supervisionado</b> 
+
+Seu entrevistador lhe pediu para correlacionar características de imóveis, como número de quartos e renda dos proprietários, com seus valores de mercado. A base de dados a ser utilizada contém o levantamento de 20.640 imóveis, a partir do Censo de 1990. O conjunto de dados foi gerado pelos pesquisadores R. Kelley Pace e Ronald Barry, em 1997 (KELLEY PACE & BARRY, 1997).
+
+Você poderá acessar os dados gratuitamente no site dos autores. Apesar do formato não ser intuitivo em um primeiro momento, os arquivos podem ser abertos por editores de texto convencionais e salvos como “.CSV”. O link para acesso à base está indicado abaixo:
+
+Disponível em: <a href="https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html" target="_blanck"><i><u>https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing.html</u></i></a>
+
+Vale dizer que a biblioteca Scikit-Learn contém nativamente esta base de dados, permitindo que seja importada automaticamente para a aplicação. Mais informações e exemplos podem ser obtidos no seguinte link:
+
+   Disponível em: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html" target="_blanck"><i><u>https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html</u></i></a>
+
+Assim, recomenda-se o uso biblioteca Scikit-Learn para solução do desafio. Bibliotecas adicionais, como Pandas, Numpy e Matplotlib, também podem ser utilizadas.
+
+Solução Atividade 1: <a href="" target="_blanck"><i><u>NOME</u></i></a>
+</br></br>
