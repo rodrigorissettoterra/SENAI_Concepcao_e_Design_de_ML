@@ -76,7 +76,7 @@ Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI
 
 #### Situação-problema1: Contextualização
 
-Análise sobre imóveis
+<b> Análise sobre imóveis </b>
  
 Você está terminando sua formação no curso de Criação e validação de modelos de aprendizado de máquina. Ao buscar por empregos na área, você conseguiu uma entrevista para demonstrar seus conhecimentos na análise e criação de modelos de machine learning.
  
@@ -122,3 +122,53 @@ A biblioteca Scikit-Learn contém nativamente esta base de dados, permitindo que
 Disponível em: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html" target="_blanck"><i><u>https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html</u></i></a>
 
 <b> Solução Atividade 1: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Classifica%C3%A7%C3%A3o_de_esp%C3%A9cies_de_flores_(%C3%8Dris).ipynb" target="_blanck"><i><u>Classificação de espécies de flores (Íris).ipynb</u></i></a>
+
+<hr>
+
+### Plataformas de Machine Learning
+
+<b> Atividade 1: </b>
+
+Etapa 1
+
+Usando o dataset a seguir, programe um modelo de regressão linear para prever a nota de um aluno com base no número de horas de estudo. Avalie a performance do modelo mostrando a sua acurácia.
+
+Etapa 2
+
+Crie modelos, que irão classificar se uma transação é fraude ou não, com os seguintes classificadores:
+
+- Decision Tree Classifier
+- Random Forest Classifier
+- AdaBoost Classifier
+- Decision Tree Regressor
+- Random Forest Regressor
+- Gradient Boosted Trees Regressor
+- Ensemble Classifier
+
+Compare a acurácia de cada classificador e mostre em qual obtivemos o melhor resultado.
+
+<b> Solução Atividade 1: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Classifica%C3%A7%C3%A3o_e_Regress%C3%A3o_com_Scikit_learn.ipynb" target="_blanck"><i><u>Classificação e Regressão com Scikit-learn.ipynb</u></i></a>
+
+<b> Atividade 2: </b>
+
+TEXTO
+
+<b> Solução Atividade 2: </b> <a href="" target="_blanck"><i><u>NOME2</u></i></a>
+
+<b> Atividade 3: </b>
+
+TEXTO
+
+<b> Solução Atividade 3: </b> <a href="" target="_blanck"><i><u>NOME3</u></i></a>
+
+<b> Atividade 4: </b>
+
+TEXTO
+
+<b> Solução Atividade 4: </b> <a href="" target="_blanck"><i><u>NOME4</u></i></a>
+
+<b> Atividade 5: </b>
+
+TEXTO
+
+<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>NOME5</u></i></a>
