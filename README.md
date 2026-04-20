@@ -30,7 +30,7 @@ de exames e testes em laboratório, e protocolo de tratamento adotado, além de 
 - Lidar com valores faltantes e redundantes, outliers e ruído.
 - Normalizar ou padronizar os dados.
 
-Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_01.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_01.ipynb</u></i></a>
+<b>Solução Atividade 1:</b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_01.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_01.ipynb</u></i></a>
 </br></br>
 <b> Atividade 2: Preparação final do conjunto de dados de hepatite para processamento com modelo preditivo </b>
 <p>Você, como cientista de dados do Hospital Santa Ajuda, completará a preparação do conjunto de dados de hepatite, com uma etapa de seleção de características. O objetivo desta atividade é a utilização de métodos de seleção de características e redução de dimensionalidade para elaborar três conjuntos de dados com quantidade de atributos distinta do original. Os cenários são definidos a seguir:</p>
@@ -41,7 +41,7 @@ Solução Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI_Co
 
 <p>Uma vez que os dados estejam prontos para cada cenário, a experimentação com modelos de classificação pode ser feita utilizando um modelo de máquinas de vetor suporte (SVM) com o kernel RBF e avaliando a métrica de acurácia balanceada, uma vez que o conjunto original apresenta mais dados de pessoas que sobreviveram do que para aquelas que vieram a óbito.</p>
 
-Solução Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_02.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_02.ipynb</u></i></a>
+<b>Solução Atividade 2:</b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Dados_Hepatite_Ativ_02.ipynb" target="_blanck"><i><u>Dados_Hepatite_Ativ_02.ipynb</u></i></a>
 
 <hr>
 
@@ -68,7 +68,7 @@ Solução da Atividade 1: <a href="https://github.com/rodrigorissettoterra/SENAI
   Para efetuá-la, a viabilidade de uma solução deverá utilizar o conjunto de dados disponível online na plataforma Kaggle, onde 20 mil avaliações foram extraídas com as suas respectivas notas gerais. O arquivo .zip da base pode ser baixado através do link: <a href="" target="_blanck"><i><u>https://www.kaggle.com/andrewmvd/trip-advisor-hotel-reviews/download</u></i></a>.
   O objetivo central da atividade é organizar o vocabulário utilizado nas avaliações e representar o texto utilizando a estratégia de bag-of-words. Ao fim, como são 20491 amostras, é esperado que no pós-processamento você tenha uma matriz com 20491 x N, onde N é a quantidade de características escolhidas para representação do documento.
 
-Solução da Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Previs%C3%A3o_de_nota.ipynb" target="_blanck"><i><u>Previsão de nota.ipynb</u></i></a>
+<b>Solução da Atividade 2:</b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Previs%C3%A3o_de_nota.ipynb" target="_blanck"><i><u>Previsão de nota.ipynb</u></i></a>
 
 <hr>
 
@@ -76,7 +76,13 @@ Solução da Atividade 2: <a href="https://github.com/rodrigorissettoterra/SENAI
 
 #### Situação-problema1: Contextualização
 
-<b>Análise e criação de modelo supervisionado</b> 
+Análise sobre imóveis
+ 
+Você está terminando sua formação no curso de Criação e validação de modelos de aprendizado de máquina. Ao buscar por empregos na área, você conseguiu uma entrevista para demonstrar seus conhecimentos na análise e criação de modelos de machine learning.
+ 
+Nesta, o entrevistador lhe pediu para correlacionar características de imóveis, como número de quartos e renda dos proprietários, com seus valores de mercado. A base de dados a ser utilizada contém o levantamento de 20.640 imóveis, a partir do Censo de 1990. O conjunto de dados foi gerado pelos pesquisadores R. Kelley Pace e Ronald Barry, em 1997 (KELLEY PACE & BARRY, 1997).
+
+<b>Atividade 1: Análise e criação de modelo supervisionado</b> 
 
 Seu entrevistador lhe pediu para correlacionar características de imóveis, como número de quartos e renda dos proprietários, com seus valores de mercado. A base de dados a ser utilizada contém o levantamento de 20.640 imóveis, a partir do Censo de 1990. O conjunto de dados foi gerado pelos pesquisadores R. Kelley Pace e Ronald Barry, em 1997 (KELLEY PACE & BARRY, 1997).
 
@@ -90,5 +96,29 @@ Vale dizer que a biblioteca Scikit-Learn contém nativamente esta base de dados,
 
 Assim, recomenda-se o uso biblioteca Scikit-Learn para solução do desafio. Bibliotecas adicionais, como Pandas, Numpy e Matplotlib, também podem ser utilizadas.
 
-Solução Atividade 1: <a href="" target="_blanck"><i><u>NOME</u></i></a>
+<b>Solução Atividade 1:</b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Previs%C3%A3o_pre%C3%A7os_im%C3%B3veis.ipynb" target="_blanck"><i><u>Previsão preços imóveis.ipynb</u></i></a>
 </br></br>
+
+#### Situação-problema 2: Contextualização
+
+Você assumiu o posto de cientista de dados de um Centro de Pesquisa renomado voltado à área botânica. No caso, os pesquisadores do centro estão realizando um estudo sobre espécies de flores, analisando suas pétalas e sépalas.
+ 
+Como foi gerado muitos dados, foi-lhe pedido para analisá-los, de modo a classificar as espécies. Assim, seu desafio consiste em:
+
+• Criar uma solução de agrupamento utilizando os algoritmos adequados.
+
+<b> Atividade 1: Análise e criação de modelo para classificar flores </b>
+
+Nesta atividade, você auxiliará um grupo de pesquisadores quanto à classificação de espécies de flores. Você se baseará nas informações das pétalas e das sépalas delas.
+
+A base de dados a ser utilizada foi criada em 1936 por R. A. Fisher, para separação de espécie de flor Íris (FISHER, 1936). Ela contém 150 amostras, divididas em três espécies diferentes, cada uma com 50 amostras. Vale dizer que algumas dessas amostras são facilmente separáveis e classificáveis, enquanto outras não podem ser classificadas de forma fácil.
+
+Para acesso à base de dados, é possível utilizar dois métodos diferentes. Você poderá acessar o arquivo “.csv”, gratuitamente, por meio da plataforma Kaggle, no seguinte link:
+
+Disponível em: <a href="https://www.kaggle.com/uciml/iris" target="_blanck"><i><u>https://www.kaggle.com/uciml/iris</u></i></a>
+
+A biblioteca Scikit-Learn contém nativamente esta base de dados, permitindo que seja importada automaticamente para a aplicação. Mais informações e exemplos podem ser obtidos no seguinte link:
+
+Disponível em: <a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html" target="_blanck"><i><u>https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html</u></i></a>
+
+<b> Solução Atividade 1: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Classifica%C3%A7%C3%A3o_de_esp%C3%A9cies_de_flores_(%C3%8Dris).ipynb" target="_blanck"><i><u>Classificação de espécies de flores (Íris).ipynb</u></i></a>
