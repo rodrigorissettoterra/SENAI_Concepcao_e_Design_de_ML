@@ -196,7 +196,7 @@ Construa um classificador de imagens usando a rede AlexNet pré-treinada que dis
 Utilize o dataset, disponível em: <a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blanck"><i><u>https://www.kaggle.com/c/dogs-vs-cats/data</u></i></a>.
 Esse dataset contém 20.000 imagens rotuladas e os conjuntos de teste e validação têm 2.500 imagens. Para utilizá-lo, você deve remodelar cada imagem para 227×227×3.
 
-<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>Transfer Learning.ipynb</u></i></a>
+<b> Solução Atividade 5: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Transfer_Learning.ipynb" target="_blanck"><i><u>Transfer Learning.ipynb</u></i></a>
 
 <hr>
 
