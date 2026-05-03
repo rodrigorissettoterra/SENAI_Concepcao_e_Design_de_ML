@@ -199,3 +199,76 @@ Esse dataset contém 20.000 imagens rotuladas e os conjuntos de teste e validaç
 <b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>Transfer Learning.ipynb</u></i></a>
 
 <hr>
+
+### Visão Computacional
+
+Você foi contratado por uma renomada empresa de aço. Por muito tempo, a produção dela utilizava a inspeção visual para manter a qualidade de suas peças. Contudo, com o aumento da demanda, os diretores sentiram a necessidade de atualizar o modo como fazem a inspeção e decidiram instalar uma inspeção óptica automatizada (AOI) para detectar problemas e minimizar erros produzidos, melhorando a qualidade dos produtos.
+Assim, você auxiliará esse processo de atualização, de modo que seu desafio será:
+
+• Criar um modelo para detectar defeitos em superfícies de tiras de aço.
+
+<b> Atividade 1: Criação de modelo Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 1: </b> <a href="" target="_blanck"><i><u>NOME01</u></i></a>
+
+<b> Atividade 2: Criando um vetor de imagem Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 2: </b> <a href="" target="_blanck"><i><u>NOME02</u></i></a>
+
+<b> Atividade 3: Operações simples com imagens Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 3: </b> <a href="" target="_blanck"><i><u>NOME03</u></i></a>
+
+<b> Atividade 4: Comparação de duas imagens Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 4: </b> <a href="" target="_blanck"><i><u>NOME04</u></i></a>
+
+<b> Atividade 5: Filtragem Linear Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>NOME05/u></i></a>
+
+<b> Atividade 6: Comparação de imagens usando OpenCV Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 6: </b> <a href="" target="_blanck"><i><u>NOME06</u></i></a>
+
+<b> Atividade 7: Detecção de Objetos Usando Contornos – Detector Hog Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 7: </b> <a href="" target="_blanck"><i><u>NOME07</u></i></a>
+
+<b> Atividade 8: Tipo de flores Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 8: </b> <a href="" target="_blanck"><i><u>NOME08</u></i></a>
+
+<b> Atividade 9: Detecção de objetos usando Machine Learning Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 9: </b> <a href="" target="_blanck"><i><u>NOME09</u></i></a>
+
+<b> Atividade 10: Ferramenta de anotação de imagens – VGG ANNOTATOR IMAGE (VIA) Tarefa</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 10: </b> <a href="" target="_blanck"><i><u>NOME10</u></i></a>
+
+<b> Atividade 11: Deepface</b>
+
+ORIENTAÇÕES
+
+<b> Solução Atividade 11: </b> <a href="" target="_blanck"><i><u>NOME11</u></i></a>
