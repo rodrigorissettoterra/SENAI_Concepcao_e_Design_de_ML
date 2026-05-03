@@ -149,11 +149,13 @@ Compare a acurácia de cada classificador e mostre em qual obtivemos o melhor re
 
 <b> Solução Atividade 1: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Classifica%C3%A7%C3%A3o_e_Regress%C3%A3o_com_Scikit_learn.ipynb" target="_blanck"><i><u>Classificação e Regressão com Scikit-learn.ipynb</u></i></a>
 
-<b> Atividade 2: </b>
+<b> Atividade 2: TensorFlow</b>
 
-TEXTO
+Utilizando o dataset Iris, faça um simples classificador binário para prever se uma flor é a espécie Iris setosa ou não. Em outras palavras, este conjunto de dados tem três espécies, mas apenas preveja se uma flor é uma única espécie, Iris setosa ou não.
 
-<b> Solução Atividade 2: </b> <a href="" target="_blanck"><i><u>NOME2</u></i></a>
+O Iris Dataset é disponível no link: <a href="https://www.tensorflow.org/datasets/catalog/iris" target="_blanck"><i><u>https://www.tensorflow.org/datasets/catalog/iris</u></i></a>
+
+<b> Solução Atividade 2: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/TensorFlow_Iris.ipynb" target="_blanck"><i><u>TensorFlow:Iris.ipynb</u></i></a>
 
 <b> Atividade 3: </b>
 
