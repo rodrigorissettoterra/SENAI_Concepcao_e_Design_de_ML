@@ -235,7 +235,7 @@ ORIENTAÇÕES
 
 ORIENTAÇÕES
 
-<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>NOME05/u></i></a>
+<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>NOME05</u></i></a>
 
 <b> Atividade 6: Comparação de imagens usando OpenCV Tarefa</b>
 
