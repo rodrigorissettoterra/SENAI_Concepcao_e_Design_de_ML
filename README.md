@@ -127,7 +127,7 @@ Disponível em: <a href="https://scikit-learn.org/stable/modules/generated/sklea
 
 ### Plataformas de Machine Learning
 
-<b> Atividade 1: </b>
+<b> Atividade 1: Classificação e Regressão com Scikit-learn</b>
 
 Etapa 1
 
@@ -157,20 +157,45 @@ O Iris Dataset é disponível no link: <a href="https://www.tensorflow.org/datas
 
 <b> Solução Atividade 2: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/TensorFlow_Iris.ipynb" target="_blanck"><i><u>TensorFlow:Iris.ipynb</u></i></a>
 
-<b> Atividade 3: </b>
+<b> Atividade 3: Keras e PyTorch</b>
 
-TEXTO
+Etapa 1- Keras
 
-<b> Solução Atividade 3: </b> <a href="" target="_blanck"><i><u>NOME3</u></i></a>
+Uma de suas tarefas é voltada para área da saúde, foi-lhe pedido para prever se um câncer é benigno ou maligno.
 
-<b> Atividade 4: </b>
+No caso, desenvolva um algoritmo que use redes neurais para prever, com precisão (~94% de precisão), se um tumor de câncer de mama é benigno ou maligno, basicamente ensine uma máquina a prever o câncer de mama. Para tal, uma sugestão é utilizar APIs Keras.
 
-TEXTO
+A seguir, será detalhado o conjunto de dados:
 
-<b> Solução Atividade 4: </b> <a href="" target="_blanck"><i><u>NOME4</u></i></a>
+Dataset do câncer de mama: as características são computadas a partir de uma imagem digitalizada de uma agulha fina aspirada (FNA) de uma massa mamária. Eles descrevem características dos núcleos celulares presentes na imagem. Algumas das imagens estão disponíveis em: <a href="http://www.cs.wisc.edu/~street/images" target="_blanck"><i><u>http://www.cs.wisc.edu/~street/images</u></i></a> .
 
-<b> Atividade 5: </b>
+- Distribuição da classe: 357 benigno, 212 maligno.
 
-TEXTO
+Dataset disponível no link: <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29" target="_blanck"><i><u>https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29</u></i></a>
 
-<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>NOME5</u></i></a>
+Etapa 2 - PyTorch
+
+Utilizando PyTorch, construa os modelos dos casos abaixo utilizando a mesma base da atividade anterior
+
+- Classificação binária utilizando o Iris Dataset
+- Previsão de fraudes V2
+- Classificador do câncer de mama
+- Marketing Bancário
+
+<b> Solução Atividade 3: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Keras_e_PyTorch.ipynb" target="_blanck"><i><u>Keras_e_PyTorch.ipynb</u></i></a>
+
+<b> Atividade 4: Convolutional Neural Networks (CNNS)</b>
+
+Implemente uma rede LeNet5 para detectar dígitos manuscritos. Utilize o MNIST dataset para treinar o modelo.
+
+<b> Solução Atividade 4: </b> <a href="https://github.com/rodrigorissettoterra/SENAI_Concepcao_e_Design_de_ML/blob/main/Convolutional_Neural_Networks_(CNNS).ipynb" target="_blanck"><i><u>Convolutional Neural Networks (CNNS).ipynb</u></i></a>
+
+<b> Atividade 5: Transfer Learning </b>
+
+Construa um classificador de imagens usando a rede AlexNet pré-treinada que distingue entre cães e gatos. 
+Utilize o dataset, disponível em: <a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blanck"><i><u>https://www.kaggle.com/c/dogs-vs-cats/data</u></i></a>.
+Esse dataset contém 20.000 imagens rotuladas e os conjuntos de teste e validação têm 2.500 imagens. Para utilizá-lo, você deve remodelar cada imagem para 227×227×3.
+
+<b> Solução Atividade 5: </b> <a href="" target="_blanck"><i><u>Transfer Learning.ipynb</u></i></a>
+
+<hr>
